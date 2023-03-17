@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+p {
+	background-color: beige;
+}
+
+h1 {
+	background-color: darkgray;
+}
+
+h2 {
+	background-color: azure;
+}
+
+li {
+	background-color: floralwhite;
+}
